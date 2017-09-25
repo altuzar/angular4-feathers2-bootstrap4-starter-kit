@@ -1,10 +1,22 @@
-# Angular4-Feathers2-Bootstrap2-Starter-Kit
+# Angular 4 and Feathers 2 with Bootstrap 4 Starter-Kit
 
 > A starter kit with a real-time chat application with Angular 4 and Bootstrap 4 for the client and Feathers 2 for the server with users authentication.
 
 ## About
 
-This project uses [Angular](http://angular.io). One framework, mobile & desktop. And [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+This project uses [Angular](http://angular.io). One framework, mobile & desktop. And [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications. And [Bootstrap](http://getbootstrap.com/). The most popular HTML, CSS, and JS library in the world. 
+
+## Screenshots
+
+There are 2 screens in the project. 
+
+First the Login/Sign up route:
+
+![Login/Sign up](https://user-images.githubusercontent.com/122941/30821795-2aad565a-a1ec-11e7-9bb8-f40cdfd9f504.png)
+
+And the Chat route with the proper AuthGuard so that only logged in users can open it:
+
+![Chat](https://user-images.githubusercontent.com/122941/30821811-331916d0-a1ec-11e7-819e-99959d92ce48.png)
 
 ## Getting Started
 
