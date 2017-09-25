@@ -1,6 +1,6 @@
-# Angular4-Feathers2-Chat-App
+# Angular4-Feathers2-Bootstrap2-Starter-Kit
 
-> A real-time chat application with Angular 4 for the client and Feathers 2 for the server with users authentication.
+> A starter kit with a real-time chat application with Angular 4 and Bootstrap 4 for the client and Feathers 2 for the server with users authentication.
 
 ## About
 
@@ -21,13 +21,13 @@ Getting up and running is easy. First launch the server and then the client.
 3. Clone the repo
 
     ```
-    git clone https://github.com/altuzar/angular4-feathers2-chat-app.git
+    git clone https://github.com/altuzar/angular4-feathers2-bootstrap4-starter-kit.git
     ```
 
 4. Install the server dependencies
 
     ```
-    cd angular4-feathers2-chat-app
+    cd angular4-feathers2-bootstrap4-starter-kit.git
     cd server
     npm install
     ```
